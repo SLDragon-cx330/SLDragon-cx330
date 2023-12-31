@@ -4,9 +4,9 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
-<a href="https://github.com/tinygeeker">
+<a href="https://github.com/SLDragon-cx330">
   <div align="right" >
-    <img align="right" src="https://camo.githubusercontent.com/a2eaf3511f668a744bd45cba229ed9fb2e77db0ae33e0d64458dec947a7db345/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f403a74696e796765656b65723f7468656d653d72756c653334" alt="命运之光" />
+    <img align="right" src="https://count.getloli.com/get/@:tinygeeker?theme=rule34" alt="命运之光" />
   </div>
 </a>
 
