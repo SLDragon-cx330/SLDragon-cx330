@@ -4,6 +4,8 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
+> 虚心若愚，求知若饥，命运之光梦开始的地方！
+
 <a href="https://github.com/SLDragon-cx330">
   <div align="right" >
     <img align="right" src="https://count.getloli.com/get/@:tinygeeker?theme=rule34" alt="命运之光" />
@@ -11,9 +13,12 @@
 </a>
 
 <!-- ======================================= -->
-
-* 😄Read more about my [CSDN](https://blog.csdn.net/VLOKL?type=blog)
-* 👯Follow me on [阿里云](https://developer.aliyun.com/profile/expert/3z4stlrddizcq), [掘金](https://juejin.cn/user/2500757330865256) or [腾讯云](https://bbs.huaweicloud.com/community/usersnew/id_1683969425588960)
+- 💼 Destiny's Light（命运之光）
+- 🏫 国内某所知名大学
+- 📮 微信：CSDN_Fate_Light
+- 📖 掘金账号：https://juejin.cn/user/2500757330865256
+* 😄阅读更多我写的文章 [CSDN](https://blog.csdn.net/VLOKL?type=blog)
+* 👯关注我的博客 [CSDN](https://blog.csdn.net/VLOKL?type=blog), [阿里云](https://developer.aliyun.com/profile/expert/3z4stlrddizcq), [掘金](https://juejin.cn/user/2500757330865256) or [腾讯云](https://bbs.huaweicloud.com/community/usersnew/id_1683969425588960)
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=9999FF&center=true&vCenter=true&width=500&height=22&lines=Welcome+to+the+nest+of+the+light+of+destiny.++%F0%9F%91%8B)
@@ -25,7 +30,10 @@
 
 <!-- ======================================= -->
 
-##### GitHub status
+### ⭐GitHub status
+
+<!--
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLDragon-cx330&show_icons=true&hide=prs&card_width=1000)
 <!--
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=tinygeeker&theme=github)
@@ -36,6 +44,14 @@
 -->
 
 
+
+<table border=0>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=SLDragon-cx330&show_icons=true&count_private=true&theme=vue-light&hide_border=true" alt="SLDragon-cx330's GitHub stats" style="zoom:100%;" align="left"/></td>
+    <td><img src="https://4sdvg7tqbv.us.aircode.run/juejin?uid=2500757330865256&hide_border=true" alt="HuiDBK的掘金数据" style="zoom:100%;" align="left"/></td>
+  </tr>
+</table>
+
 <!-- 
 ##### Some repo 
 
@@ -44,3 +60,10 @@
 * [ChatGPT-presets](https://github.com/tinygeeker/ChatGPT-presets)：🛠️Some interesting presets for ChatGPT.(一些ChatGPT有趣的预设包)🧰  [![](https://img.shields.io/github/stars/tinygeeker/ChatGPT-presets)](https://github.com/tinygeeker/ChatGPT-presets)
 * [sitemap](https://github.com/tinygeeker/sitemap)：🛠️Paddling fish website navigation.(划水摸鱼网站导航)🧰  [![](https://img.shields.io/github/stars/tinygeeker/sitemap)](https://github.com/tinygeeker/sitemap)
 ======================================= -->
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SLDragon-cx330&theme=vue-light)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SLDragon-cx330"></img>
+
+
