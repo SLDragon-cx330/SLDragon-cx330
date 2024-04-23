@@ -8,7 +8,7 @@
 
 <a href="https://github.com/SLDragon-cx330">
   <div align="right" >
-    <img align="right" src="https://count.getloli.com/get/@:tinygeeker?theme=rule34" alt="命运之光" />
+    <img align="right" src="https://count.getloli.com/get/@:SLDragon-cx330?theme=rule34" alt="命运之光" />
   </div>
 </a>
 
