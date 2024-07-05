@@ -43,6 +43,33 @@
 
 -->
 
+<p align="center">
+<!-- github数据概览 -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=zhqihang&theme=transparent&show_icons=true&hide_border=true" />
+
+<!-- 连续贡献数据记录 -->
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=zhqihang&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+
+<!-- 贡献图 -->
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=zhqihang&theme=github-compact&hide_border=true&area=true" />
+<br/>
+
+<!-- 代码编写总时长 -->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2031%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+
+
+
+
+
 
 
 <table border=0>
